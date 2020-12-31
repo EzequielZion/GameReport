@@ -1,4 +1,4 @@
-# PruebaPSh
+# Game Report
 ## Pasos a seguir:
 Guardar la base de datos psh_devtest.sql en donde se almacenen las bases de datos del localhost.
 

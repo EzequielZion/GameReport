@@ -1,6 +1,6 @@
 # Game Report
 ## Pasos a seguir:
-Guardar la base de datos psh_devtest.sql en donde se almacenen las bases de datos del localhost.
+Guardar la base de datos psh_devtest.sql en donde se almacenen las bases de datos del localhost y levantarlo.
 
 Desde la terminal de Visual Studio Code, posicionarse en la carpeta ./server y ejecutar el comando node index.js para levantar el server.
 
